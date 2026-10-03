@@ -1,0 +1,6 @@
+{
+  "name": "preppannel",
+  "description": "Your AI-powered consulting interview preparation room built around the FMS Consulting Casebook 2025-26",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
